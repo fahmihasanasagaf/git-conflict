@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 "Perubahan dari main" 
+=======
+"Perubahan dari branch-1" 
+>>>>>>> branch-1
